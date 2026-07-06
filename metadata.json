@@ -1,0 +1,6 @@
+{
+  "name": "CONTENZO",
+  "description": "Premium Guest Posting Marketplace. No middlemen, 0% markup, affordable pricing. Designed with a dark modern premium aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
